@@ -1,0 +1,2 @@
+This is second part of Git demo cloud training.
+
